@@ -29,10 +29,10 @@ Run the following commands in the R console or RStudio's console to install the 
 1. Run the R script: insurance.r
 2. Users can adapt this code for their specific insurance datasets or modify it to suit their analytical needs. By replacing the dataset path and customizing the visualizations, it becomes a versatile tool for exploring and communicating insights from insurance data.
 
-# Reading the Dataset
+# Reading The Dataset
 The code begins by reading a CSV file named "insurance.csv" from a specified file path.
 
-# Displaying Dataset Information:
+# Displaying Dataset Information
 ● The head(df) and tail(df) functions are used to display the first and last few rows of the dataset, respectively.
 ● The str(df) function is used to provide information about the structure of the dataset, including variable names and data types.
 
