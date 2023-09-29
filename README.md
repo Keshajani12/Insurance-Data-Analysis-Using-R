@@ -79,11 +79,3 @@ The code appears to be a combination of data exploration and visualization tasks
 ![9](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/b7a326c9-8b87-4d85-8539-b45066074ef4)
 
 
-
-
-
-
-
-
-
-# Screenshots
