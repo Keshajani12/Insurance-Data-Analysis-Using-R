@@ -18,7 +18,7 @@ The provided R code appears to be performing data analysis and visualization tas
 The primary purpose of this code is to explore and analyze the insurance dataset visually, allowing data analysts, researchers, or stakeholders to gain a better understanding of the dataset's patterns and trends. 
 
 # Installation
-1. Clone this repository: git clone https://github.com
+1. Clone this repository: git clone https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R.git
 
 2. Install R and set the working directory :"C:\\Users\\hp\\Desktop\\Datasets\\Dataset\\Datasets-master\\insurance.csv"
 
@@ -56,5 +56,34 @@ filData selects the first three columns of the dataset.
 # Final Visualization
 The final plot created using ggplot visualizes the relationship between the 'smoker' and 'bmi' variables, with 'sex' as a fill color. It's a bar plot with 'smoker' on the x-axis and 'bmi' on the y-axis, and 'sex' is used for color differentiation. The "position" parameter specifies "dodge" for side-by-side bars, and "stat" is set to "identity" to use the data as-is.
 The code appears to be a combination of data exploration and visualization tasks using R's dplyr and ggplot2 packages. It's intended to provide insights and visualizations related to the insurance dataset, particularly focusing on factors such as age, BMI, gender, and smoking status. This code can be helpful for data analysis and visualization purposes when working with insurance-related data.
+
+# Screenshots
+![0](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/434892ca-7871-481a-ab0c-db5f0009e96a)
+
+![1](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/1239fc7a-50cb-483b-922e-37d81e048ace)
+
+![2](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/4ccb650f-7928-4ef0-a08f-df06573dff85)
+
+![3](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/cdc51645-4a9b-4d7d-b2a1-c0a6282ff1cd)
+
+![4](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/545222c7-7d81-47d7-bbab-2071ca8fa79e)
+
+![5](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/6a2f7885-ea1a-45e2-8347-5588640f1242)
+
+![6](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/91ff3e88-144e-45f7-a2a5-9605540488b7)
+
+![7](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/5d278eef-9a36-4ac5-b360-18d6b63d715c)
+
+![8](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/a1fa75d3-73a0-4891-9b8c-05a70b3218ed)
+
+![9](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-R/assets/143489586/b7a326c9-8b87-4d85-8539-b45066074ef4)
+
+
+
+
+
+
+
+
 
 # Screenshots
